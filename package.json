@@ -1,0 +1,12 @@
+{
+  "name": "cursos_muito_doidos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-sass style.css style.min.css --output-style compressed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
